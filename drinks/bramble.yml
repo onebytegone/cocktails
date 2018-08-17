@@ -1,0 +1,37 @@
+name: Bramble
+tags:
+   - iba-new-era
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: gin
+      amount:
+         value: 4
+         unit: cl
+      name: Gin
+   -
+      ingredient: simple-syrup
+      amount:
+         value: 1
+         unit: cl
+      name: Simple syrup
+   -
+      ingredient: lemon-juice
+      amount:
+         value: 1.5
+         unit: cl
+      name: Fresh lemon juice
+   -
+      ingredient: blackberry-liqueur
+      amount:
+         value: 1.5
+         unit: cl
+      name: Blackberry liqueur
+garnish:
+   -
+      ingredient: lemon-slice
+      name: Lemon slice
+   -
+      ingredient: blackberry
+      name: Blackberry

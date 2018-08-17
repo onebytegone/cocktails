@@ -1,0 +1,24 @@
+name: Angel Face
+tags:
+   - iba-unforgettables
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: calvados
+      amount:
+         value: 3
+         unit: cl
+      name: Calvados
+   -
+      ingredient: gin
+      amount:
+         value: 3
+         unit: cl
+      name: Gin
+   -
+      ingredient: apricot-brandy
+      amount:
+         value: 3
+         unit: cl
+      name: Apricot brandy

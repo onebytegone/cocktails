@@ -1,0 +1,28 @@
+name: Negroni
+tags:
+   - iba-unforgettables
+   - cocktail
+   - before-dinner
+ingredients:
+   -
+      ingredient: campari
+      amount:
+         value: 3
+         unit: cl
+      name: Campari
+   -
+      ingredient: red-vermouth
+      amount:
+         value: 3
+         unit: cl
+      name: Red Vermouth
+   -
+      ingredient: gin
+      amount:
+         value: 3
+         unit: cl
+      name: Gin
+garnish:
+   -
+      ingredient: orange-slice
+      name: Orange slice

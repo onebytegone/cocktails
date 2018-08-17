@@ -1,0 +1,28 @@
+name: Manhattan
+tags:
+   - iba-unforgettables
+   - cocktail
+   - before-dinner
+ingredients:
+   -
+      ingredient: rye-whiskey
+      amount:
+         value: 5
+         unit: cl
+      name: Rye Whiskey
+   -
+      ingredient: sweet-vermouth
+      amount:
+         value: 2
+         unit: cl
+      name: Red Vermouth
+   -
+      ingredient: angostura-bitters
+      amount:
+         value: 1
+         unit: dash
+      name: Angostura Bitters
+garnish:
+   -
+      ingredient: cherry
+      name: Cherry

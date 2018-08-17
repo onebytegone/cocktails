@@ -1,0 +1,24 @@
+name: Bacardi
+tags:
+   - iba-unforgettables
+   - cocktail
+   - before-dinner
+ingredients:
+   -
+      ingredient: white-rum
+      amount:
+         value: 4.5
+         unit: cl
+      name: Bacardi
+   -
+      ingredient: lime-juice
+      amount:
+         value: 2
+         unit: cl
+      name: Fresh lime juice
+   -
+      ingredient: grenadine
+      amount:
+         value: 1
+         unit: cl
+      name: Grenadine

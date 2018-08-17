@@ -1,0 +1,30 @@
+name: Old Fashioned
+tags:
+   - iba-unforgettables
+   - cocktail
+   - before-dinner
+ingredients:
+   -
+      ingredient: bourbon
+      amount:
+         value: 4.5
+         unit: cl
+      name: Bourbon or Rye whiskey
+   -
+      ingredient: angostura-bitters
+      amount:
+         value: 2
+         unit: dashes
+      name: Angostura Bitters
+   -
+      ingredient: sugar
+      amount:
+         value: 1
+      name: Sugar cube
+garnish:
+   -
+      ingredient: orange-slice
+      name: Orange slice
+   -
+      ingredient: cherry
+      name: Cherry
