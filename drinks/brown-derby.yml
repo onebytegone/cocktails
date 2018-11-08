@@ -1,0 +1,20 @@
+name: Brown Derby
+ingredients:
+   -
+      ingredient: bourbon
+      amount:
+         value: 6
+         unit: cl
+      name: Bourbon
+   -
+      ingredient: grapefruit-juice
+      amount:
+         value: 3
+         unit: cl
+      name: Fresh grapefruit juice
+   -
+      ingredient: honey-syrup
+      amount:
+         value: 1.5
+         unit: cl
+      name: Honey syrup
