@@ -11,7 +11,7 @@ ingredients:
          unit: cl
       name: Campari
    -
-      ingredient: red-vermouth
+      ingredient: sweet-vermouth
       amount:
          value: 3
          unit: cl
