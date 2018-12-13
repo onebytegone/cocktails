@@ -1,0 +1,14 @@
+name: Honey Syrup
+ingredients:
+   -
+      ingredient: honey
+      amount:
+         value: 6
+         unit: cl
+      name: Honey
+   -
+      ingredient: water
+      amount:
+         value: 6
+         unit: cl
+      name: Filtered water

@@ -1,0 +1,14 @@
+name: Simple Syrup
+ingredients:
+   -
+      ingredient: sugar
+      amount:
+         value: 20
+         unit: cl
+      name: Sugar
+   -
+      ingredient: water
+      amount:
+         value: 20
+         unit: cl
+      name: Filtered water
