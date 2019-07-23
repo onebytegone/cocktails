@@ -1,0 +1,16 @@
+name: French Connection
+tags:
+   - cocktail
+   - after-dinner
+ingredients:
+      ingredient: cognac
+      amount:
+         value: 3.5
+         unit: cl
+      name: Cognac
+   -
+      ingredient: amaretto
+      amount:
+         value: 3.5
+         unit: cl
+      name: Amaretto
