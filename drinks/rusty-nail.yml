@@ -4,6 +4,7 @@ tags:
    - cocktail
    - after-dinner
 ingredients:
+   -
       ingredient: scotch
       amount:
          value: 4.5

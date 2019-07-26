@@ -3,6 +3,7 @@ tags:
    - cocktail
    - after-dinner
 ingredients:
+   -
       ingredient: cognac
       amount:
          value: 3.5

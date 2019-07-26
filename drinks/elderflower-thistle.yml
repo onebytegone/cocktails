@@ -2,6 +2,7 @@ name: Elderflower Thistle
 tags:
    - cocktail
 ingredients:
+   -
       ingredient: scotch
       amount:
          value: 5
