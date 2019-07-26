@@ -1,4 +1,4 @@
-name: Gin Fizz
+name: John Collins
 tags:
    - iba-unforgettables
    - long-drink
@@ -10,11 +10,11 @@ ingredients:
          unit: cl
       name: Gin
    -
-      ingredient: gomme-syrup
+      ingredient: simple-syrup
       amount:
-         value: 1
+         value: 1.5
          unit: cl
-      name: Gomme syrup
+      name: simple syrup
    -
       ingredient: lemon-juice
       amount:
@@ -24,10 +24,13 @@ ingredients:
    -
       ingredient: soda-water
       amount:
-         value: 8
+         value: 6
          unit: cl
       name: Soda water
 garnish:
    -
       ingredient: lemon-slice
       name: Lemon slice
+   -
+      ingredient: cherry
+      name: Cherry
