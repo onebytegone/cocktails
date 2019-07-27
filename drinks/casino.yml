@@ -1,0 +1,30 @@
+name: Casino
+tags:
+   - iba-unforgettables
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: gin
+      amount:
+         value: 4
+         unit: cl
+      name: Gin
+   -
+      ingredient: maraschino
+      amount:
+         value: 1
+         unit: cl
+      name: Maraschino
+   -
+      ingredient: orange-bitters
+      amount:
+         value: 4
+         unit: dashes
+      name: Orange bitters
+   -
+      ingredient: lemon-juice
+      amount:
+         value: 1
+         unit: cl
+      name: Fresh lemon juice

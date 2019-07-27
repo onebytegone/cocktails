@@ -1,0 +1,33 @@
+name: Sazerac
+tags:
+   - iba-unforgettables
+   - cocktail
+   - after-dinner
+ingredients:
+   -
+      ingredient: cognac
+      amount:
+         value: 5
+         unit: cl
+      name: Cognac
+   -
+      ingredient: absinthe
+      amount:
+         value: 1
+         unit: cl
+      name: Absinthe
+   -
+      ingredient: sugar
+      amount:
+         value: 1
+      name: Sugar cube
+   -
+      ingredient: peychauds-bitters
+      amount:
+         value: 1
+         unit: dash
+      name: Peychaud's Bitters
+garnish:
+   -
+      ingredient: lemon-peel
+      name: Lemon peel
