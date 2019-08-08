@@ -1,7 +1,9 @@
 name: Long Island Iced Tea
 tags:
+   - iba-unforgettables
    - cocktail
-   - longdrink
+   - long-drink
+   - add-day
 ingredients:
    -
       ingredient: gin
@@ -10,7 +12,7 @@ ingredients:
          unit: cl
       name: Gin
    -
-      ingredient: white rum
+      ingredient: white-rum
       amount:
          value: 1.5
          unit: cl
