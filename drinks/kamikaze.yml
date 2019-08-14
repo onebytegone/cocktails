@@ -1,0 +1,28 @@
+name: Kamikaze
+tags:
+   - iba-new-era
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: vodka
+      amount:
+         value: 3
+         unit: cl
+      name: Vodka
+   -
+      ingredient: triple-sec
+      amount:
+         value: 3
+         unit: cl
+      name: Triple sec
+   -
+      ingredient: lime-juice
+      amount:
+         value: 3
+         unit: cl
+      name: Fresh lime juice
+garnish:
+   -
+      ingredient: lime
+      name: Lime slice

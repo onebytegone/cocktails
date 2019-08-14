@@ -1,0 +1,28 @@
+name: Spritz Veneziano
+tags:
+   - iba-new-era
+   - cocktail
+   - before-dinner
+ingredients:
+   -
+      ingredient: prosecco
+      amount:
+         value: 6
+         unit: cl
+      name: Prosecco
+   -
+      ingredient: aperol
+      amount:
+         value: 4
+         unit: cl
+      name: Aperol
+   -
+      ingredient: soda-water
+      amount:
+         value: 1
+         unit: splash
+      name: Soda water
+garnish:
+   -
+      ingredient: orange
+      name: Orange wedge
