@@ -1,0 +1,28 @@
+name: Horse's Neck
+tags:
+   - iba-contemporary-classics
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: brandy
+      amount:
+         value: 4
+         unit: cl
+      name: Brandy
+   -
+      ingredient: ginger-ale
+      amount:
+         value: 12
+         unit: cl
+      name: Ginger ale
+   -
+      ingredient: angostura-bitters
+      amount:
+         value: 1
+         unit: dash
+      name: Angostura Bitters
+garnish:
+   -
+      ingredient: lemon-twist
+      name: Lemon twist
