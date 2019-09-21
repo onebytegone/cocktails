@@ -17,7 +17,7 @@ ingredients:
          unit: cl
       name: Orange juice
    -
-      ingredient: pineapple juice
+      ingredient: pineapple-juice
       amount:
          value: 3.5
          unit: cl

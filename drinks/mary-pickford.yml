@@ -11,13 +11,13 @@ ingredients:
          unit: cl
       name: White rum
    -
-      ingredient: pineapple juice
+      ingredient: pineapple-juice
       amount:
          value: 6
          unit: cl
       name: Pineapple juice
    -
-      ingredient: Grenadine
+      ingredient: grenadine
       amount:
          value: 4
          unit: cl
