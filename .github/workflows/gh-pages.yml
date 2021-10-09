@@ -13,16 +13,17 @@ jobs:
             with:
                fetch-depth: 0
          -
-            name: Use Node.js ${{ matrix.node-version }}
+            name: Read .nvmrc
+            run: echo ::set-output name=NVMRC::$(cat .nvmrc)
+            id: nvm
+         -
+            name: Setup node
             uses: actions/setup-node@v1
             with:
-               node-version: ${{ matrix.node-version }}
+               node-version: '${{ steps.nvm.outputs.NVMRC }}'
          -
             shell: bash
-            run: |
-               pushd scripts/build
-               npm ci
-               node src/build.js
+            run: npm run build
          -
             uses: peaceiris/actions-gh-pages@v3
             with:
