@@ -6,6 +6,7 @@
       </strong>
       <nav class="nav">
         <g-link class="nav__link" to="/">Home</g-link>
+        <g-link class="nav__link" to="/drinks/">Drinks</g-link>
       </nav>
     </header>
     <slot/>

@@ -5,6 +5,19 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
+
    siteName: 'Cocktails',
+   pathPrefix: '/cocktails',
+
    plugins: [],
+
+   templates: {
+      Drink: [
+         {
+            path: '/drinks/:id',
+            component: './src/templates/DrinkRecipe.vue',
+         },
+      ],
+   },
+
 };

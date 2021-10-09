@@ -1,19 +1,15 @@
 <template>
    <Layout>
 
-      <!-- Learn how to use images here: https://gridsome.org/docs/images -->
-      <g-image alt="Example image" src="~/favicon.png" width="135" />
+      <h1>Cocktails 🍸🥃🍹</h1>
 
-      <h1>Hello, world!</h1>
+      <h2>Featured</h2>
 
-      <p>
-         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur excepturi labore tempore expedita, et iste tenetur suscipit explicabo! Dolores, aperiam non officia eos quod asperiores
-      </p>
-
-      <p class="home-links">
-         <a href="https://gridsome.org/docs/" target="_blank" rel="noopener">Gridsome Docs</a>
-         <a href="https://github.com/gridsome/gridsome" target="_blank" rel="noopener">GitHub</a>
-      </p>
+      <ul>
+         <li v-for="edge in $page.featuredDrinks.edges" :key="edge.node.id">
+           <g-link :to="edge.node.path">{{ edge.node.name }}</g-link>
+         </li>
+      </ul>
 
    </Layout>
 </template>
@@ -21,10 +17,24 @@
 <script>
 export default {
    metaInfo: {
-      title: 'Hello, world!'
+      title: 'Home'
    }
 }
 </script>
+
+<page-query>
+query {
+   featuredDrinks: allDrink(filter: { id: { in: [ "hemingway-special", "aviation", "sidecar" ] } }) {
+      edges {
+         node {
+            id
+            name
+            path
+         }
+      }
+   }
+}
+</page-query>
 
 <style>
 .home-links a {
