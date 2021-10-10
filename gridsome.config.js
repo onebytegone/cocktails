@@ -18,6 +18,12 @@ module.exports = {
             component: './src/templates/DrinkRecipe.vue',
          },
       ],
+      Ingredient: [
+         {
+            path: '/made-with/:id',
+            component: './src/templates/Ingredient.vue',
+         },
+      ],
       Tag: [
          {
             path: '/tagged/:id',
