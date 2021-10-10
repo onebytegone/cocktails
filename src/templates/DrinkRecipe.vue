@@ -8,17 +8,17 @@
       </ul>
 
       <h2>Ingredients</h2>
-      <ul>
+      <ul class="ingredient-list">
          <li v-for="ingredient in $page.drink.ingredients" :key="ingredient.item.id">
-            {{ ingredient.amount.value }} {{ ingredient.amount.unit }} {{ ingredient.name || ingredient.item.name }}
+            {{ ingredient.amount.value }} {{ ingredient.amount.unit }} <g-link :to="ingredient.item.path">{{ ingredient.name || ingredient.item.name }}</g-link>
          </li>
       </ul>
 
       <div v-if="$page.drink.garnish.length">
          <h2>Garnish</h2>
-         <ul>
+         <ul class="garnish-list">
             <li v-for="garnish in $page.drink.garnish" :key="garnish.item.id">
-               {{ garnish.name || garnish.item.name }}
+               <g-link :to="garnish.item.path">{{ garnish.name || garnish.item.name }}</g-link>
             </li>
          </ul>
       </div>
@@ -45,6 +45,13 @@
 .tags a:hover {
    background-color: hsl(219deg 24% 29%);
 }
+.ingredient-list a, .garnish-list a {
+   text-decoration: none;
+   color: #000000;
+}
+.ingredient-list a:hover, .garnish-list a:hover {
+   text-decoration: underline;
+}
 </style>
 
 <script>
@@ -69,6 +76,7 @@ query ($id: ID!) {
          item {
             id
             name
+            path
          }
          amount {
             value
@@ -80,6 +88,7 @@ query ($id: ID!) {
          item {
             id
             name
+            path
          }
          name
       }
