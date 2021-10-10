@@ -1,0 +1,21 @@
+name: Tommy's Margarita
+tags:
+   - iba-new-era
+   - cocktail
+   - aperitif
+ingredients:
+   -
+      ingredient: tequila
+      amount:
+         value: 4.5
+         unit: cl
+   -
+      ingredient: lime-juice
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: agave-nectar
+      amount:
+         value: 1
+         unit: cl

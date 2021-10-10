@@ -1,0 +1,24 @@
+name: Manhattan
+tags:
+   - iba-unforgettables
+   - cocktail
+   - aperitif
+ingredients:
+   -
+      ingredient: rye-whiskey
+      amount:
+         value: 5
+         unit: cl
+   -
+      ingredient: sweet-vermouth
+      amount:
+         value: 2
+         unit: cl
+   -
+      ingredient: angostura-bitters
+      amount:
+         value: 1
+         unit: dash
+garnish:
+   -
+      ingredient: cherry

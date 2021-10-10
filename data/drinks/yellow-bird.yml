@@ -1,0 +1,26 @@
+name: Yellow Bird
+tags:
+   - iba-new-era
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: white-rum
+      amount:
+         value: 3
+         unit: cl
+   -
+      ingredient: galliano
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: triple-sec
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: lime-juice
+      amount:
+         value: 1.5
+         unit: cl

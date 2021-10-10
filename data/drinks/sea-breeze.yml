@@ -1,0 +1,24 @@
+name: Sea Breeze
+tags:
+   - iba-contemporary-classics
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: vodka
+      amount:
+         value: 4
+         unit: cl
+   -
+      ingredient: cranberry-juice
+      amount:
+         value: 12
+         unit: cl
+   -
+      ingredient: grapefruit-juice
+      amount:
+         value: 3
+         unit: cl
+garnish:
+   -
+      ingredient: lime-slice

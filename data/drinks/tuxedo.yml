@@ -1,0 +1,37 @@
+name: Tuxedo
+tags:
+   - iba-unforgettables
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: gin
+      amount:
+         value: 3
+         unit: cl
+   -
+      ingredient: dry-vermouth
+      amount:
+         value: 3
+         unit: cl
+   -
+      ingredient: maraschino
+      amount:
+         value: 2.5
+         unit: ml
+   -
+      ingredient: absinthe
+      amount:
+         value: 1
+         unit: ml
+   -
+      ingredient: orange-bitters
+      amount:
+         value: 3
+         unit: dashes
+garnish:
+   -
+      ingredient: cherry
+   -
+      ingredient: lemon
+      name: Lemon Zest

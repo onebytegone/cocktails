@@ -1,0 +1,24 @@
+name: Elderflower Thistle
+tags:
+   - cocktail
+ingredients:
+   -
+      ingredient: scotch
+      amount:
+         value: 5
+         unit: cl
+   -
+      ingredient: st-germain
+      amount:
+         value: 2
+         unit: cl
+      name: St. Germain (or similar elderflower liqueur)
+   -
+      ingredient: angostura-bitters
+      amount:
+         value: 1
+         unit: dash
+garnish:
+   -
+      ingredient: lemon
+      name: Lemon Peel

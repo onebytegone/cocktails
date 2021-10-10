@@ -1,0 +1,51 @@
+name: Singapore Sling
+tags:
+   - iba-contemporary-classics
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: gin
+      amount:
+         value: 3
+         unit: cl
+   -
+      ingredient: cherry-liqueur
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: cointreau
+      amount:
+         value: 0.75
+         unit: cl
+   -
+      ingredient: benedictine
+      amount:
+         value: 0.75
+         unit: cl
+   -
+      ingredient: grenadine
+      amount:
+         value: 1
+         unit: cl
+   -
+      ingredient: pineapple-juice
+      amount:
+         value: 12
+         unit: cl
+   -
+      ingredient: lime-juice
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: angostura-bitters
+      amount:
+         value: 1
+         unit: dash
+garnish:
+   -
+      ingredient: pineapple
+   -
+      ingredient: cherry

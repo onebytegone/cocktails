@@ -1,0 +1,24 @@
+name: Moscow mule
+tags:
+   - iba-contemporary-classics
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: vodka
+      amount:
+         value: 4.5
+         unit: cl
+   -
+      ingredient: lime-juice
+      amount:
+         value: 0.5
+         unit: cl
+   -
+      ingredient: ginger-beer
+      amount:
+         value: 12
+         unit: cl
+garnish:
+   -
+      ingredient: lime-slice

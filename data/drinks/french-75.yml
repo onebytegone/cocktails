@@ -1,0 +1,26 @@
+name: French 75
+tags:
+   - iba-contemporary-classics
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: gin
+      amount:
+         value: 3
+         unit: cl
+   -
+      ingredient: simple-syrup
+      amount:
+         value: 1
+         unit: cl
+   -
+      ingredient: lemon-juice
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: champagne
+      amount:
+         value: 6
+         unit: cl

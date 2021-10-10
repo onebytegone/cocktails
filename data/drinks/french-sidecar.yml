@@ -1,0 +1,15 @@
+name: French Sidecar
+tags:
+   - cocktail
+   - after-dinner
+ingredients:
+   -
+      ingredient: cognac
+      amount:
+         value: 3.5
+         unit: cl
+   -
+      ingredient: grand-marnier
+      amount:
+         value: 3.5
+         unit: cl

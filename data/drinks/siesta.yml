@@ -1,0 +1,27 @@
+name: Siesta
+ingredients:
+   -
+      ingredient: tequila
+      amount:
+         value: 6
+         unit: cl
+   -
+      ingredient: campari
+      amount:
+         value: 2
+         unit: cl
+   -
+      ingredient: grapefruit-juice
+      amount:
+         value: 2
+         unit: cl
+   -
+      ingredient: lime-juice
+      amount:
+         value: 2
+         unit: cl
+   -
+      ingredient: simple-syrup
+      amount:
+         value: 2
+         unit: cl

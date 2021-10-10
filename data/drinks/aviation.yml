@@ -1,0 +1,21 @@
+name: Aviation
+tags:
+   - iba-unforgettables
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: gin
+      amount:
+         value: 4.5
+         unit: cl
+   -
+      ingredient: maraschino
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: lemon-juice
+      amount:
+         value: 1.5
+         unit: cl

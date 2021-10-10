@@ -1,0 +1,26 @@
+name: Tequlia
+tags:
+   - iba-contemporary-classics
+   - cocktail
+   - before-dinner
+ingredients:
+   -
+      ingredient: tequila
+      amount:
+         value: 4.5
+         unit: cl
+   -
+      ingredient: orange-juice
+      amount:
+         value: 9
+         unit: cl
+   -
+      ingredient: grenadine
+      amount:
+         value: 1.5
+         unit: cl
+garnish:
+   -
+      ingredient: orange-slice
+   -
+      ingredient: cherry

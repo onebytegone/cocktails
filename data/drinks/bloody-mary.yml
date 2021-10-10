@@ -1,0 +1,46 @@
+name: Bloody Mary
+tags:
+   - iba-contemporary-classics
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: vodka
+      amount:
+         value: 4.5
+         unit: cl
+   -
+      ingredient: tomato-juice
+      amount:
+         value: 9
+         unit: cl
+   -
+      ingredient: lemon-juice
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: worcestershire
+      amount:
+         value: 3
+         unit: dashes
+   -
+      ingredient: tabasco
+      amount:
+         value: 1
+         unit: dash
+   -
+      ingredient: celery-salt
+      amount:
+         value: 3
+         unit: dash
+   -
+      ingredient: pepper
+      amount:
+         value: 2
+         unit: dash
+garnish:
+   -
+      ingredient: celery
+   -
+      ingredient: lemon

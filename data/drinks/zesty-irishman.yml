@@ -1,0 +1,34 @@
+name: Zesty Irishman
+tags:
+   - cocktail
+   - dinner
+ingredients:
+   -
+      ingredient: irish-whiskey
+      amount:
+         value: 3
+         unit: cl
+   -
+      ingredient: drambuie
+      amount:
+         value: 2.5
+         unit: cl
+   -
+      ingredient: triple-sec
+      amount:
+         value: 1
+         unit: cl
+   -
+      ingredient: lemon-juice
+      amount:
+         value: 3
+         unit: cl
+   -
+      ingredient: ginger-ale
+      amount:
+         value: 1.5
+         unit: cl
+garnish:
+   -
+      ingredient: lemon
+      name: Lemon Slice

@@ -1,0 +1,23 @@
+name: Bubbly Bitter Orange
+tags:
+   - cocktail
+ingredients:
+   -
+      ingredient: campari
+      amount:
+         value: 3
+         unit: cl
+   -
+      ingredient: gin
+      amount:
+         value: 5
+         unit: cl
+   -
+      ingredient: orange-soda
+      amount:
+         value: 7
+         unit: cl
+      name: Sparkling Orange Beverage (e.g. Sanpellegrino)
+garnish:
+   -
+      ingredient: orange-slice

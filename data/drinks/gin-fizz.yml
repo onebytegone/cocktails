@@ -1,0 +1,29 @@
+name: Gin Fizz
+tags:
+   - iba-unforgettables
+   - long-drink
+ingredients:
+   -
+      ingredient: gin
+      amount:
+         value: 4.5
+         unit: cl
+   -
+      ingredient: gomme-syrup
+      amount:
+         value: 1
+         unit: cl
+   -
+      ingredient: lemon-juice
+      amount:
+         value: 3
+         unit: cl
+   -
+      ingredient: soda-water
+      amount:
+         value: 8
+         unit: cl
+garnish:
+   -
+      ingredient: lemon
+      name: Lemon Slice

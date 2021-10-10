@@ -1,0 +1,21 @@
+name: Sidecar
+tags:
+   - iba-officals
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: brandy
+      amount:
+         value: 5
+         unit: cl
+   -
+      ingredient: triple-sec
+      amount:
+         value: 2
+         unit: cl
+   -
+      ingredient: lemon-juice
+      amount:
+         value: 2
+         unit: cl

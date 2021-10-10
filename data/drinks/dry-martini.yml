@@ -1,0 +1,22 @@
+name: Dry Martini
+tags:
+   - iba-unforgettables
+   - cocktail
+   - aperitif
+ingredients:
+   -
+      ingredient: gin
+      amount:
+         value: 6
+         unit: cl
+   -
+      ingredient: dry-vermouth
+      amount:
+         value: 1
+         unit: cl
+garnish:
+   -
+      ingredient: green-olive
+   -
+      ingredient: lemon
+      name: Lemon Twist

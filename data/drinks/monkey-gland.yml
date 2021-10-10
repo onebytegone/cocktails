@@ -1,0 +1,26 @@
+name: Monkey Gland
+tags:
+   - iba-unforgettables
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: gin
+      amount:
+         value: 5
+         unit: cl
+   -
+      ingredient: orange-juice
+      amount:
+         value: 3
+         unit: cl
+   -
+      ingredient: absinthe
+      amount:
+         value: 2
+         unit: drops
+   -
+      ingredient: grenadine
+      amount:
+         value: 2
+         unit: drops

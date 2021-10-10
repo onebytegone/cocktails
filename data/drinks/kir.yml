@@ -1,0 +1,16 @@
+name: Kir
+tags:
+   - iba-contemporary-classics
+   - cocktail
+   - before-dinner
+ingredients:
+   -
+      ingredient: white-wine
+      amount:
+         value: 9
+         unit: cl
+   -
+      ingredient: creme-de-cassis
+      amount:
+         value: 1
+         unit: cl

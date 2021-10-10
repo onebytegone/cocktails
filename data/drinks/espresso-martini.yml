@@ -1,0 +1,30 @@
+name: Espresso Martini
+tags:
+   - iba-new-era
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: vodka
+      amount:
+         value: 5
+         unit: cl
+   -
+      ingredient: kahlua
+      amount:
+         value: 1
+         unit: cl
+   -
+      ingredient: simple-syrup
+      amount:
+         value: 2
+         unit: cl
+   -
+      ingredient: espresso
+      amount:
+         value: 1
+         unit: short shot
+      name: Strong Espresso
+garnish:
+   -
+      ingredient: coffee-bean

@@ -1,0 +1,16 @@
+name: Dark 'n' Stormy
+tags:
+   - iba-new-era
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: dark-rum
+      amount:
+         value: 6
+         unit: cl
+   -
+      ingredient: ginger-beer
+      amount:
+         value: 10
+         unit: cl

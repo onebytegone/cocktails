@@ -1,0 +1,21 @@
+name: B-52
+tags:
+   - iba-new-era
+   - cocktail
+   - after-dinner
+ingredients:
+   -
+      ingredient: kahlua
+      amount:
+         value: 2
+         unit: cl
+   -
+      ingredient: irish-cream
+      amount:
+         value: 2
+         unit: cl
+   -
+      ingredient: grand-marnier
+      amount:
+         value: 2
+         unit: cl

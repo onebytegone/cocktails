@@ -1,0 +1,26 @@
+name: Piña Colada
+tags:
+   - iba-contemporary-classics
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: white-rum
+      amount:
+         value: 3
+         unit: cl
+   -
+      ingredient: pineapple-juice
+      amount:
+         value: 9
+         unit: cl
+   -
+      ingredient: cream-of-coconut
+      amount:
+         value: 3
+         unit: cl
+garnish:
+   -
+      ingredient: pineapple
+   -
+      ingredient: cherry

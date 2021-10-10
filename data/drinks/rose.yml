@@ -1,0 +1,24 @@
+name: Rose
+tags:
+   - iba-contemporary-classics
+   - cocktail
+   - before-dinner
+ingredients:
+   -
+      ingredient: dry-vermouth
+      amount:
+         value: 4
+         unit: cl
+   -
+      ingredient: kirsch
+      amount:
+         value: 2
+         unit: cl
+   -
+      ingredient: strawberry-syrup
+      amount:
+         value: 3
+         unit: dashes
+garnish:
+   -
+      ingredient: cherry

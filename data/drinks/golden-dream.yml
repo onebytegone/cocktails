@@ -1,0 +1,26 @@
+name: Golden Dream
+tags:
+   - iba-contemporary-classics
+   - cocktail
+   - after-dinner
+ingredients:
+   -
+      ingredient: galliano
+      amount:
+         value: 2
+         unit: cl
+   -
+      ingredient: triple-sec
+      amount:
+         value: 2
+         unit: cl
+   -
+      ingredient: orange-juice
+      amount:
+         value: 2
+         unit: cl
+   -
+      ingredient: cream
+      amount:
+         value: 1
+         unit: cl

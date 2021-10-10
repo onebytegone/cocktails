@@ -1,0 +1,17 @@
+name: Matador
+ingredients:
+   -
+      ingredient: tequila
+      amount:
+         value: 4
+         unit: cl
+   -
+      ingredient: pineapple-juice
+      amount:
+         value: 8
+         unit: cl
+   -
+      ingredient: lime-juice
+      amount:
+         value: 2
+         unit: cl

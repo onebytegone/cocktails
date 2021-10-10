@@ -1,0 +1,25 @@
+name: French Martini
+tags:
+   - iba-new-era
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: vodka
+      amount:
+         value: 4.5
+         unit: cl
+   -
+      ingredient: chambord
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: pineapple-juice
+      amount:
+         value: 1.5
+         unit: cl
+garnish:
+   -
+      ingredient: lemon
+      name: Lemon Twist

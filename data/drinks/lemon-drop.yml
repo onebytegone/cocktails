@@ -1,0 +1,25 @@
+name: Lemon Drop Martini
+tags:
+   - iba-new-era
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: vodka-citron
+      amount:
+         value: 2.5
+         unit: cl
+   -
+      ingredient: triple-sec
+      amount:
+         value: 2
+         unit: cl
+   -
+      ingredient: lemon-juice
+      amount:
+         value: 1.5
+         unit: cl
+garnish:
+   -
+      ingredient: sugar
+      name: Sugared Glass Rim

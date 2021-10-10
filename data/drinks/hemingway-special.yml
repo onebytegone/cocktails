@@ -1,0 +1,26 @@
+name: Hemingway Special
+tags:
+   - iba-contemporary-classics
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: white-rum
+      amount:
+         value: 6
+         unit: cl
+   -
+      ingredient: maraschino
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: grapefruit-juice
+      amount:
+         value: 4
+         unit: cl
+   -
+      ingredient: lime-juice
+      amount:
+         value: 1.5
+         unit: cl

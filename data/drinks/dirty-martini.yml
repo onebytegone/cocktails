@@ -1,0 +1,24 @@
+name: Dirty Martini
+tags:
+   - iba-new-era
+   - cocktail
+   - aperitif
+ingredients:
+   -
+      ingredient: gin
+      amount:
+         value: 6
+         unit: cl
+   -
+      ingredient: dry-vermouth
+      amount:
+         value: 1
+         unit: cl
+   -
+      ingredient: olive-brine
+      amount:
+         value: 1
+         unit: splash
+garnish:
+   -
+      ingredient: green-olive

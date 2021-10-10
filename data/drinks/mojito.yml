@@ -1,0 +1,37 @@
+name: Mojito
+tags:
+   - iba-contemporary-classics
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: white-rum
+      amount:
+         value: 4
+         unit: cl
+   -
+      ingredient: lime-juice
+      amount:
+         value: 3
+         unit: cl
+   -
+      ingredient: mint
+      amount:
+         value: 6
+         unit: sprigs
+   -
+      ingredient: sugar
+      amount:
+         value: 2
+         unit: teaspoon
+   -
+      ingredient: soda-water
+      amount:
+         value: 2
+         unit: cl
+garnish:
+   -
+      ingredient: mint
+      name: Mint Sprig
+   -
+      ingredient: lime

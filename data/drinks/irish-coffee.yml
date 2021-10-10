@@ -1,0 +1,26 @@
+name: Irish Coffee
+tags:
+   - iba-contemporary-classics
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: irish-whiskey
+      amount:
+         value: 4
+         unit: cl
+   -
+      ingredient: coffee
+      amount:
+         value: 8
+         unit: cl
+   -
+      ingredient: cream
+      amount:
+         value: 3
+         unit: cl
+   -
+      ingredient: brown-sugar
+      amount:
+         value: 1
+         unit: teaspoon

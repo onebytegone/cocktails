@@ -1,0 +1,24 @@
+name: Spritz Veneziano
+tags:
+   - iba-new-era
+   - cocktail
+   - aperitif
+ingredients:
+   -
+      ingredient: prosecco
+      amount:
+         value: 6
+         unit: cl
+   -
+      ingredient: aperol
+      amount:
+         value: 4
+         unit: cl
+   -
+      ingredient: soda-water
+      amount:
+         value: 1
+         unit: splash
+garnish:
+   -
+      ingredient: orange

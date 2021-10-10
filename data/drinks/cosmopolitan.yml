@@ -1,0 +1,29 @@
+name: Cosmopolitan
+tags:
+   - iba-contemporary-classics
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: vodka-citron
+      amount:
+         value: 4
+         unit: cl
+   -
+      ingredient: cointreau
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: lime-juice
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: cranberry-juice
+      amount:
+         value: 3
+         unit: cl
+garnish:
+   -
+      ingredient: lime-slice

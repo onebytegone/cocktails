@@ -1,0 +1,25 @@
+name: Whiskey Sour
+tags:
+   - iba-unforgettables
+   - cocktail
+ingredients:
+   -
+      ingredient: bourbon
+      amount:
+         value: 4.5
+         unit: cl
+   -
+      ingredient: lemon-juice
+      amount:
+         value: 3
+         unit: cl
+   -
+      ingredient: gomme-syrup
+      amount:
+         value: 1.5
+         unit: cl
+garnish:
+   -
+      ingredient: orange-slice
+   -
+      ingredient: cherry

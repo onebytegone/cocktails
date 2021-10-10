@@ -1,0 +1,30 @@
+name: Champagne Cocktail
+tags:
+   - iba-contemporary-classics
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: champagne
+      amount:
+         value: 6
+         unit: cl
+   -
+      ingredient: cognac
+      amount:
+         value: 1
+         unit: cl
+   -
+      ingredient: angostura-bitters
+      amount:
+         value: 2
+         unit: dash
+   -
+      ingredient: sugar
+      amount:
+         value: 1
+garnish:
+   -
+      ingredient: orange-slice
+   -
+      ingredient: cherry

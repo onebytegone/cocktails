@@ -1,0 +1,50 @@
+name: Long Island Iced Tea
+tags:
+   - iba-unforgettables
+   - cocktail
+   - long-drink
+   - add-day
+ingredients:
+   -
+      ingredient: gin
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: white-rum
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: silver-tequila
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: vodka
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: triple-sec
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: simple-syrup
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: lemon-juice
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: cola
+      amount:
+         value: 1
+         unit: splash
+garnish:
+   -
+      ingredient: lemon

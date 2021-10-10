@@ -1,0 +1,30 @@
+name: Mint Julip
+tags:
+   - iba-contemporary-classics
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: bourbon
+      amount:
+         value: 6
+         unit: cl
+   -
+      ingredient: mint
+      amount:
+         value: 4
+         unit: leaves
+   -
+      ingredient: powdered-sugar
+      amount:
+         value: 1
+         unit: teaspoon
+   -
+      ingredient: water
+      amount:
+         value: 2
+         unit: teaspoon
+garnish:
+   -
+      ingredient: mint
+      name: Mint Sprig

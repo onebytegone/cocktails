@@ -1,0 +1,23 @@
+name: Hot Toddy
+ingredients:
+   -
+      ingredient: whiskey
+      amount:
+         value: 6
+         unit: cl
+      name: Whiskey (or Brandy)
+   -
+      ingredient: lemon-juice
+      amount:
+         value: 2
+         unit: cl
+   -
+      ingredient: honey
+      amount:
+         value: 2
+         unit: cl
+   -
+      ingredient: water
+      amount:
+         value: 15
+         unit: cl

@@ -1,0 +1,21 @@
+name: White Lady
+tags:
+   - iba-unforgettables
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: gin
+      amount:
+         value: 4
+         unit: cl
+   -
+      ingredient: triple-sec
+      amount:
+         value: 3
+         unit: cl
+   -
+      ingredient: lemon-juice
+      amount:
+         value: 2
+         unit: cl

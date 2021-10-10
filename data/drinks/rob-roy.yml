@@ -1,0 +1,22 @@
+name: Rob Roy
+tags:
+   - cocktail
+ingredients:
+   -
+      ingredient: scotch
+      amount:
+         value: 4
+         unit: cl
+   -
+      ingredient: sweet-vermouth
+      amount:
+         value: 2
+         unit: cl
+   -
+      ingredient: angostura-bitters
+      amount:
+         value: 1
+         unit: dash
+garnish:
+   -
+      ingredient: cherry

@@ -1,0 +1,20 @@
+name: Rusty Nail
+tags:
+   - iba-unforgettables
+   - cocktail
+   - after-dinner
+ingredients:
+   -
+      ingredient: scotch
+      amount:
+         value: 4.5
+         unit: cl
+   -
+      ingredient: drambuie
+      amount:
+         value: 2.5
+         unit: cl
+garnish:
+   -
+      ingredient: lemon
+      name: Lemon Slice

@@ -1,0 +1,21 @@
+name: Grasshopper
+tags:
+   - iba-contemporary-classics
+   - cocktail
+   - after-dinner
+ingredients:
+   -
+      ingredient: creme-de-menthe
+      amount:
+         value: 3
+         unit: cl
+   -
+      ingredient: creme-de-cacao
+      amount:
+         value: 3
+         unit: cl
+   -
+      ingredient: cream
+      amount:
+         value: 3
+         unit: cl

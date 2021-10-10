@@ -1,0 +1,46 @@
+name: Planters Punch
+tags:
+   - iba-unforgettables
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: dark-rum
+      amount:
+         value: 4.5
+         unit: cl
+   -
+      ingredient: orange-juice
+      amount:
+         value: 3.5
+         unit: cl
+   -
+      ingredient: pineapple-juice
+      amount:
+         value: 3.5
+         unit: cl
+   -
+      ingredient: lemon-juice
+      amount:
+         value: 2
+         unit: cl
+   -
+      ingredient: grenadine
+      amount:
+         value: 1
+         unit: cl
+   -
+      ingredient: simple-syrup
+      amount:
+         value: 1
+         unit: cl
+   -
+      ingredient: angostura-bitters
+      amount:
+         value: 4
+         unit: dash
+garnish:
+   -
+      ingredient: pineapple
+   -
+      ingredient: cherry

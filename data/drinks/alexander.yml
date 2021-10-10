@@ -1,0 +1,24 @@
+name: Alexander
+tags:
+   - iba-unforgettables
+   - cocktail
+   - after-dinner
+ingredients:
+   -
+      ingredient: cognac
+      amount:
+         value: 3
+         unit: cl
+   -
+      ingredient: creme-de-cacao
+      amount:
+         value: 3
+         unit: cl
+   -
+      ingredient: cream
+      amount:
+         value: 3
+         unit: cl
+garnish:
+   -
+      ingredient: nutmeg

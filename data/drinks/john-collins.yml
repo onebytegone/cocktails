@@ -1,0 +1,31 @@
+name: John Collins
+tags:
+   - iba-unforgettables
+   - long-drink
+ingredients:
+   -
+      ingredient: gin
+      amount:
+         value: 4.5
+         unit: cl
+   -
+      ingredient: simple-syrup
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: lemon-juice
+      amount:
+         value: 3
+         unit: cl
+   -
+      ingredient: soda-water
+      amount:
+         value: 6
+         unit: cl
+garnish:
+   -
+      ingredient: lemon
+      name: Lemon Slice
+   -
+      ingredient: cherry

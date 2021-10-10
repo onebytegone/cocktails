@@ -1,0 +1,23 @@
+name: Americano
+tags:
+   - iba-unforgettables
+   - cocktail
+   - aperitif
+ingredients:
+   -
+      ingredient: campari
+      amount:
+         value: 3
+         unit: cl
+   -
+      ingredient: sweet-vermouth
+      amount:
+         value: 3
+         unit: cl
+   -
+      ingredient: soda-water
+      amount:
+         value: Splash
+garnish:
+   -
+      ingredient: orange-slice

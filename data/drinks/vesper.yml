@@ -1,0 +1,21 @@
+name: Vesper
+tags:
+   - iba-new-era
+   - cocktail
+   - aperitif
+ingredients:
+   -
+      ingredient: gin
+      amount:
+         value: 6
+         unit: cl
+   -
+      ingredient: vodka
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: lillet-blanc
+      amount:
+         value: 0.75
+         unit: cl

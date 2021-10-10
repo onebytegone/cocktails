@@ -1,0 +1,16 @@
+name: Screwdriver
+tags:
+   - iba-unforgettables
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: vodka
+      amount:
+         value: 5
+         unit: cl
+   -
+      ingredient: orange-juice
+      amount:
+         value: 10
+         unit: cl

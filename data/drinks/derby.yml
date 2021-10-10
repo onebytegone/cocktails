@@ -1,0 +1,25 @@
+name: Derby
+tags:
+   - iba-unforgettables
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: gin
+      amount:
+         value: 6
+         unit: cl
+   -
+      ingredient: peach-bitters
+      amount:
+         value: 2
+         unit: dashes
+   -
+      ingredient: mint
+      amount:
+         value: 2
+         unit: leaves
+garnish:
+   -
+      ingredient: mint
+      name: Mint Sprig

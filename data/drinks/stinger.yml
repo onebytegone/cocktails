@@ -1,0 +1,16 @@
+name: Stinger
+tags:
+   - iba-unforgettables
+   - cocktail
+   - after-dinner
+ingredients:
+   -
+      ingredient: cognac
+      amount:
+         value: 5
+         unit: cl
+   -
+      ingredient: creme-de-menthe
+      amount:
+         value: 2
+         unit: cl

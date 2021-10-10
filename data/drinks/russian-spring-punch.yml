@@ -1,0 +1,36 @@
+name: Russian Spring Punch
+tags:
+   - iba-new-era
+   - cocktail
+   - all-day
+ingredients:
+   -
+      ingredient: vodka
+      amount:
+         value: 2.5
+         unit: cl
+   -
+      ingredient: creme-de-cassis
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: simple-syrup
+      amount:
+         value: 1
+         unit: cl
+   -
+      ingredient: lemon-juice
+      amount:
+         value: 2.5
+         unit: cl
+   -
+      ingredient: sparkling-wine
+      amount:
+         value: 2.5
+         unit: cl
+      name: Sparkling Wine (to top)
+garnish:
+   -
+      ingredient: lemon
+      name: Lemon Twist

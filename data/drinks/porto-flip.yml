@@ -1,0 +1,25 @@
+name: Porto flip
+tags:
+   - iba-officals
+   - cocktail
+   - after-dinner
+ingredients:
+   -
+      ingredient: brandy
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: port
+      amount:
+         value: 4.5
+         unit: cl
+   -
+      ingredient: egg-yolk
+      amount:
+         value: 1
+         unit: cl
+garnish:
+   -
+      ingredient: nutmeg
+      name: Grated Nutmeg

@@ -1,0 +1,38 @@
+name: Mai Tai
+tags:
+   - iba-contemporary-classics
+   - cocktail
+   - add-day
+ingredients:
+   -
+      ingredient: white-rum
+      amount:
+         value: 4
+         unit: cl
+   -
+      ingredient: dark-rum
+      amount:
+         value: 2
+         unit: cl
+   -
+      ingredient: curacao
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: orgeat-syrup
+      amount:
+         value: 1.5
+         unit: cl
+   -
+      ingredient: lime-juice
+      amount:
+         value: 1
+         unit: cl
+garnish:
+   -
+      ingredient: lime
+      name: Lime Wedge
+   -
+      ingredient: mint
+      name: Mint Sprig

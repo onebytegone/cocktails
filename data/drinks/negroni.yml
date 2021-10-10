@@ -1,0 +1,24 @@
+name: Negroni
+tags:
+   - iba-unforgettables
+   - cocktail
+   - aperitif
+ingredients:
+   -
+      ingredient: campari
+      amount:
+         value: 3
+         unit: cl
+   -
+      ingredient: sweet-vermouth
+      amount:
+         value: 3
+         unit: cl
+   -
+      ingredient: gin
+      amount:
+         value: 3
+         unit: cl
+garnish:
+   -
+      ingredient: orange-slice
