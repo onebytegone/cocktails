@@ -1,1 +1,1 @@
-{"hash":"d5fbe432b1dd7d9a04f8baa5c60d8313c56a8364","data":{"ingredient":{"name":"Gomme syrup","belongsTo":{"edges":[{"node":{"id":"gin-fizz","name":"Gin Fizz","path":"/drinks/gin-fizz/"}},{"node":{"id":"whiskey-sour","name":"Whiskey Sour","path":"/drinks/whiskey-sour/"}}]}}},"context":{}}
+{"hash":"d5fbe432b1dd7d9a04f8baa5c60d8313c56a8364","data":{"ingredient":{"name":"Gomme Syrup","belongsTo":{"edges":[{"node":{"id":"gin-fizz","name":"Gin Fizz","path":"/drinks/gin-fizz/"}},{"node":{"id":"whiskey-sour","name":"Whiskey Sour","path":"/drinks/whiskey-sour/"}}]}}},"context":{}}

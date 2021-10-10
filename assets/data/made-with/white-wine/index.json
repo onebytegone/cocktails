@@ -1,1 +1,1 @@
-{"hash":"d5fbe432b1dd7d9a04f8baa5c60d8313c56a8364","data":{"ingredient":{"name":"White wine","belongsTo":{"edges":[{"node":{"id":"kir","name":"Kir","path":"/drinks/kir/"}}]}}},"context":{}}
+{"hash":"d5fbe432b1dd7d9a04f8baa5c60d8313c56a8364","data":{"ingredient":{"name":"White Wine","belongsTo":{"edges":[{"node":{"id":"kir","name":"Kir","path":"/drinks/kir/"}}]}}},"context":{}}

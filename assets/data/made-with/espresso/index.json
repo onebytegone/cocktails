@@ -1,1 +1,1 @@
-{"hash":"d5fbe432b1dd7d9a04f8baa5c60d8313c56a8364","data":{"ingredient":{"name":"Strong espresso","belongsTo":{"edges":[{"node":{"id":"espresso-martini","name":"Espresso Martini","path":"/drinks/espresso-martini/"}}]}}},"context":{}}
+{"hash":"d5fbe432b1dd7d9a04f8baa5c60d8313c56a8364","data":{"ingredient":{"name":"Espresso","belongsTo":{"edges":[{"node":{"id":"espresso-martini","name":"Espresso Martini","path":"/drinks/espresso-martini/"}}]}}},"context":{}}

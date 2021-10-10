@@ -1,1 +1,1 @@
-{"hash":"d5fbe432b1dd7d9a04f8baa5c60d8313c56a8364","data":{"ingredient":{"name":"Sugar cane","belongsTo":{"edges":[{"node":{"id":"caipirinha","name":"Caipirinha","path":"/drinks/caipirinha/"}}]}}},"context":{}}
+{"hash":"d5fbe432b1dd7d9a04f8baa5c60d8313c56a8364","data":{"ingredient":{"name":"Sugar Cane","belongsTo":{"edges":[{"node":{"id":"caipirinha","name":"Caipirinha","path":"/drinks/caipirinha/"}}]}}},"context":{}}
