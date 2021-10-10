@@ -9,16 +9,16 @@
 
       <h2>Ingredients</h2>
       <ul>
-         <li v-for="ingredient in $page.drink.ingredients" :key="ingredient.ingredient">
-            {{ ingredient.amount.value }} {{ ingredient.amount.unit }} {{ ingredient.name }}
+         <li v-for="ingredient in $page.drink.ingredients" :key="ingredient.item.id">
+            {{ ingredient.amount.value }} {{ ingredient.amount.unit }} {{ ingredient.name || ingredient.item.name }}
          </li>
       </ul>
 
       <div v-if="$page.drink.garnish.length">
          <h2>Garnish</h2>
          <ul>
-            <li v-for="garnish in $page.drink.garnish" :key="garnish.ingredient">
-               {{ garnish.name }}
+            <li v-for="garnish in $page.drink.garnish" :key="garnish.item.id">
+               {{ garnish.name || garnish.item.name }}
             </li>
          </ul>
       </div>
@@ -66,7 +66,10 @@ query ($id: ID!) {
          path
       }
       ingredients {
-         ingredient
+         item {
+            id
+            name
+         }
          amount {
             value
             unit
@@ -74,7 +77,10 @@ query ($id: ID!) {
          name
       }
       garnish {
-         ingredient
+         item {
+            id
+            name
+         }
          name
       }
    }

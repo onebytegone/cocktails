@@ -13,11 +13,18 @@ const yaml = require('js-yaml'),
 
 module.exports = function(api) {
    // See: https://gridsome.org/docs/data-store-api/
-   api.loadSource(async ({ addCollection }) => {
+   api.loadSource(async ({ addCollection, store }) => {
       const drinks = addCollection('Drink'),
+            ingredients = addCollection('Ingredient'),
             tags = addCollection('Tag'),
             drinkFiles = await glob(path.join(__dirname, 'drinks', '**', '*.yml')),
             foundTags = new Set();
+
+      yaml.load(await fs.promises.readFile(path.join(__dirname, 'data', 'ingredients.yml'), 'utf8'))
+         .ingredients
+         .forEach((ingredient) => {
+            ingredients.addNode(ingredient);
+         });
 
       drinks.addReference('tags', 'Tag');
 
@@ -28,7 +35,17 @@ module.exports = function(api) {
          data.ingredients.forEach((ingredient) => {
             // Ensure the value is always a string to keep a consistent schema
             ingredient.amount.value = ingredient.amount.value.toString();
+
+            ingredient.item = store.createReference('Ingredient', ingredient.ingredient);
+            delete ingredient.ingredient;
          });
+
+         if (data.garnish) {
+            data.garnish.forEach((garnish) => {
+               garnish.item = store.createReference('Ingredient', garnish.ingredient);
+               delete garnish.ingredient;
+            });
+         }
 
          if (data.tags) {
             data.tags.forEach((tag) => {
