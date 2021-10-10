@@ -18,4 +18,5 @@ garnish:
    -
       ingredient: green-olive
    -
-      ingredient: lemon-twist
+      ingredient: lemon
+      name: Lemon Twist

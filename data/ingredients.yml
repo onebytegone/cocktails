@@ -4,7 +4,7 @@ ingredients:
       name: Absinthe
    -
       id: agave-nectar
-      name: Agave nectar
+      name: Agave Nectar
    -
       id: amaretto
       name: Amaretto
@@ -16,13 +16,13 @@ ingredients:
       name: Aperol
    -
       id: apricot-brandy
-      name: Apricot brandy
+      name: Apricot Brandy
    -
       id: benedictine
       name: Bénédictine
    -
       id: blackberry-liqueur
-      name: Blackberry liqueur
+      name: Blackberry Liqueur
    -
       id: blackberry
       name: Blackberry
@@ -34,7 +34,7 @@ ingredients:
       name: Brandy
    -
       id: brown-sugar
-      name: Brown sugar
+      name: Brown Sugar
    -
       id: cachaca
       name: Cachaça
@@ -46,10 +46,10 @@ ingredients:
       name: Campari
    -
       id: celery-salt
-      name: Celery salt
+      name: Celery Salt
    -
       id: celery
-      name: Celery stalk
+      name: Celery Stalk
    -
       id: chambord
       name: Chambord
@@ -58,16 +58,16 @@ ingredients:
       name: Champagne
    -
       id: cherry-liqueur
-      name: Cherry liqueur
+      name: Cherry Liqueur
    -
       id: cherry
       name: Cherry
    -
       id: coffee-bean
-      name: Coffee beans
+      name: Coffee Bean
    -
       id: coffee
-      name: Hot coffee
+      name: Coffee
    -
       id: cognac
       name: Cognac
@@ -79,10 +79,10 @@ ingredients:
       name: Cola
    -
       id: cranberry-juice
-      name: Cranberry juice
+      name: Cranberry Juice
    -
       id: cream-of-coconut
-      name: Cream of coconut
+      name: Cream of Coconut
    -
       id: cream
       name: Cream
@@ -91,31 +91,31 @@ ingredients:
       name: Créme de Cacao
    -
       id: creme-de-cassis
-      name: Crème de cassis
+      name: Crème de Cassis
    -
       id: creme-de-menthe
-      name: Green Créme de menthe
+      name: Green Créme de Menthe
    -
       id: curacao
       name: Curaçao
    -
       id: dark-rum
-      name: Dark rum
+      name: Dark Rum
    -
       id: drambuie
       name: Drambuie
    -
       id: dry-vermouth
-      name: Dry vermouth
+      name: Dry Vermouth
    -
       id: egg-white
-      name: Egg white
+      name: Egg White
    -
       id: egg-yolk
-      name: Egg yolk
+      name: Egg Yolk
    -
       id: espresso
-      name: Strong espresso
+      name: Espresso
    -
       id: galliano
       name: Galliano
@@ -124,34 +124,34 @@ ingredients:
       name: Gin
    -
       id: ginger-ale
-      name: Ginger ale
+      name: Ginger Ale
    -
       id: ginger-beer
-      name: Ginger beer
+      name: Ginger Beer
    -
       id: gold-rum
-      name: Gold rum
+      name: Gold Rum
    -
       id: gomme-syrup
-      name: Gomme syrup
+      name: Gomme Syrup
    -
       id: grand-marnier
       name: Grand Marnier
    -
       id: grapefruit-juice
-      name: Fresh grapefruit juice
+      name: Fresh Grapefruit Juice
    -
       id: grapefruit-soda
-      name: Grapefruit soda
+      name: Grapefruit Soda
    -
       id: green-olive
-      name: Green olive
+      name: Green Olive
    -
       id: grenadine
       name: Grenadine
    -
       id: honey-syrup
-      name: Honey syrup
+      name: Honey Syrup
    -
       id: honey
       name: Honey
@@ -160,7 +160,7 @@ ingredients:
       name: Irish Cream
    -
       id: irish-whiskey
-      name: Irish whiskey
+      name: Irish Whiskey
    -
       id: kahlua
       name: Kahlúa
@@ -169,73 +169,61 @@ ingredients:
       name: Kirsch
    -
       id: lemon-juice
-      name: Fresh lemon juice
-   -
-      id: lemon-peel
-      name: Lemon peel
-   -
-      id: lemon-slice
-      name: Lemon slice
-   -
-      id: lemon-twist
-      name: Lemon twist
-   -
-      id: lemon-zest
-      name: Lemon zest
+      name: Fresh Lemon Juice
    -
       id: lemon
-      name: Lemon wedge
+      name: Lemon
    -
       id: lillet-blanc
       name: Lillet Blanc
    -
       id: lime-juice
-      name: Fresh lime juice
+      name: Fresh Lime Juice
    -
       id: lime-slice
-      name: Lime slice
+      name: Lime Slice
    -
       id: lime
-      name: Lime wedges
+      name: Lime Wedges
    -
       id: maraschino
       name: Maraschino
    -
       id: mint
-      name: Fresh mint
+      name: Fresh Mint
    -
       id: nutmeg
-      name: Ground nutmeg
+      name: Ground Nutmeg
    -
       id: olive-brine
-      name: Olive brine
+      name: Olive Brine
    -
       id: orange-bitters
-      name: Orange bitters
+      name: Orange Bitters
    -
       id: orange-flower-water
-      name: Orange flower water
+      name: Orange Flower Water
    -
       id: orange-juice
-      name: Fresh orange juice
+      name: Fresh Orange Juice
    -
       id: orange-slice
-      name: Orange slice
+      name: Orange Slice
    -
       id: orange-soda
-      name: Orange soda
+      name: Orange Soda
    -
       id: orange
-      name: Orange wedge
+      name: Orange Wedge
    -
       id: orgeat-syrup
-      name: Orgeat syrup
+      name: Orgeat Syrup
    -
       id: peach-bitters
-      name: Peach bitters
+      name: Peach Bitters
    -
       id: peach-puree
-      name: Fresh peach purée
+      name: Fresh Peach Purée
    -
       id: pepper
       name: Pepper
@@ -244,13 +232,10 @@ ingredients:
       name: Peychaud's Bitters
    -
       id: pineapple-juice
-      name: Pineapple juice
-   -
-      id: pineapple-slice
-      name: Pineapple slice
+      name: Pineapple Juice
    -
       id: pineapple
-      name: Pineapple slice
+      name: Pineapple
    -
       id: pisco
       name: Pisco
@@ -259,13 +244,13 @@ ingredients:
       name: Port
    -
       id: powdered-sugar
-      name: Powdered sugar
+      name: Powdered Sugar
    -
       id: prosecco
       name: Prosecco
    -
       id: raspberry-syrup
-      name: Raspberry syrup
+      name: Raspberry Syrup
    -
       id: rye-whiskey
       name: Rye Whiskey
@@ -274,31 +259,31 @@ ingredients:
       name: Scotch
    -
       id: silver-tequila
-      name: Silver tequila
+      name: Silver Tequila
    -
       id: simple-syrup
-      name: Simple syrup
+      name: Simple Syrup
    -
       id: soda-water
-      name: Soda water
+      name: Soda Water
    -
       id: sparkling-wine
-      name: Sparkling wine (to top)
+      name: Sparkling Wine
    -
       id: st-germain
-      name: St. Germain (or similar elderflower liqueur)
+      name: St. Germain
    -
       id: strawberry-syrup
-      name: Strawberry syrup
+      name: Strawberry Syrup
    -
       id: sugar-cane
-      name: Sugar cane
+      name: Sugar Cane
    -
       id: sugar
       name: Sugar
    -
       id: sweet-vermouth
-      name: Red vermouth
+      name: Red Vermouth
    -
       id: tabasco
       name: Tabasco
@@ -307,16 +292,16 @@ ingredients:
       name: Tequila
    -
       id: tomato-juice
-      name: Tomato juice
+      name: Tomato Juice
    -
       id: triple-sec
-      name: Triple sec
+      name: Triple Sec
    -
       id: vanilla-extract
-      name: Vanilla extract
+      name: Vanilla Extract
    -
       id: vodka-citron
-      name: Vodka citron
+      name: Vodka Citron
    -
       id: vodka
       name: Vodka
@@ -325,13 +310,13 @@ ingredients:
       name: Water
    -
       id: whiskey
-      name: Whiskey (or brandy)
+      name: Whiskey
    -
       id: white-rum
       name: Bacardi
    -
       id: white-wine
-      name: White wine
+      name: White Wine
    -
       id: worcestershire
-      name: Worcestershire sauce
+      name: Worcestershire Sauce

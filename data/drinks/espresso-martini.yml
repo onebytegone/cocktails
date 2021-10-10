@@ -24,7 +24,7 @@ ingredients:
       amount:
          value: 1
          unit: short shot
-      name: Strong espresso
+      name: Strong Espresso
 garnish:
    -
       ingredient: coffee-bean

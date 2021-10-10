@@ -17,7 +17,7 @@ ingredients:
       amount:
          value: 7
          unit: cl
-      name: Sparkling orange beverage (e.g. Sanpellegrino)
+      name: Sparkling Orange Beverage (e.g. Sanpellegrino)
 garnish:
    -
       ingredient: orange-slice

@@ -41,6 +41,6 @@ ingredients:
          unit: dash
 garnish:
    -
-      ingredient: pineapple-slice
+      ingredient: pineapple
    -
       ingredient: cherry

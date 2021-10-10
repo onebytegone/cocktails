@@ -5,7 +5,7 @@ ingredients:
       amount:
          value: 6
          unit: cl
-      name: Whiskey (or brandy)
+      name: Whiskey (or Brandy)
    -
       ingredient: lemon-juice
       amount:

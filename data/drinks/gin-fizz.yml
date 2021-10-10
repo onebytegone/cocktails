@@ -25,4 +25,5 @@ ingredients:
          unit: cl
 garnish:
    -
-      ingredient: lemon-slice
+      ingredient: lemon
+      name: Lemon Slice

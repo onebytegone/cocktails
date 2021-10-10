@@ -33,4 +33,5 @@ garnish:
    -
       ingredient: cherry
    -
-      ingredient: lemon-zest
+      ingredient: lemon
+      name: Lemon Zest

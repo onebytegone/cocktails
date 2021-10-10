@@ -21,4 +21,5 @@ ingredients:
          unit: cl
 garnish:
    -
-      ingredient: lemon-twist
+      ingredient: lemon
+      name: Lemon Twist

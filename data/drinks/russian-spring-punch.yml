@@ -29,7 +29,8 @@ ingredients:
       amount:
          value: 2.5
          unit: cl
-      name: Sparkling wine (to top)
+      name: Sparkling Wine (to top)
 garnish:
    -
-      ingredient: lemon-twist
+      ingredient: lemon
+      name: Lemon Twist
