@@ -9,10 +9,8 @@ ingredients:
       amount:
          value: 9
          unit: cl
-      name: White wine
    -
       ingredient: creme-de-cassis
       amount:
          value: 1
          unit: cl
-      name: Crème de cassis

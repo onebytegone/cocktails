@@ -7,7 +7,6 @@ ingredients:
       amount:
          value: 5
          unit: cl
-      name: Scotch
    -
       ingredient: st-germain
       amount:
@@ -19,8 +18,6 @@ ingredients:
       amount:
          value: 1
          unit: dash
-      name: Angostura Bitters
 garnish:
    -
       ingredient: lemon-peel
-      name: Lemon peel

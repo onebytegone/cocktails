@@ -9,16 +9,13 @@ ingredients:
       amount:
          value: 4
          unit: cl
-      name: Gin
    -
       ingredient: triple-sec
       amount:
          value: 3
          unit: cl
-      name: Triple sec
    -
       ingredient: lemon-juice
       amount:
          value: 2
          unit: cl
-      name: Fresh lemon juice

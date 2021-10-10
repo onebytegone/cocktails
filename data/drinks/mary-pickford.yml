@@ -9,22 +9,18 @@ ingredients:
       amount:
          value: 6
          unit: cl
-      name: White rum
    -
       ingredient: pineapple-juice
       amount:
          value: 6
          unit: cl
-      name: Pineapple juice
    -
       ingredient: grenadine
       amount:
          value: 4
          unit: cl
-      name: Grenadine
    -
       ingredient: maraschino
       amount:
          value: 1
          unit: cl
-      name: Maraschino

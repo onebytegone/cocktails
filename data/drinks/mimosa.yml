@@ -9,10 +9,8 @@ ingredients:
       amount:
          value: 7.5
          unit: cl
-      name: Orange Juice
    -
       ingredient: champagne
       amount:
          value: 7.5
          unit: cl
-      name: Champagne

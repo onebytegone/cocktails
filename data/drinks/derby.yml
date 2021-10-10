@@ -9,19 +9,16 @@ ingredients:
       amount:
          value: 6
          unit: cl
-      name: Gin
    -
       ingredient: peach-bitters
       amount:
          value: 2
          unit: dashes
-      name: Peach bitters
    -
       ingredient: mint
       amount:
          value: 2
          unit: leaves
-      name: Fresh mint
 garnish:
    -
       ingredient: mint

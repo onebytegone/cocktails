@@ -9,19 +9,15 @@ ingredients:
       amount:
          value: 3
          unit: cl
-      name: Campari
    -
       ingredient: sweet-vermouth
       amount:
          value: 3
          unit: cl
-      name: Red vermouth
    -
       ingredient: soda-water
       amount:
          value: Splash
-      name: Soda water
 garnish:
    -
       ingredient: orange-slice
-      name: Orange slice

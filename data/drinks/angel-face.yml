@@ -9,16 +9,13 @@ ingredients:
       amount:
          value: 3
          unit: cl
-      name: Calvados
    -
       ingredient: gin
       amount:
          value: 3
          unit: cl
-      name: Gin
    -
       ingredient: apricot-brandy
       amount:
          value: 3
          unit: cl
-      name: Apricot brandy

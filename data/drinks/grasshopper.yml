@@ -9,16 +9,13 @@ ingredients:
       amount:
          value: 3
          unit: cl
-      name: Green Créme de menthe
    -
       ingredient: creme-de-cacao
       amount:
          value: 3
          unit: cl
-      name: White Créme de cacao
    -
       ingredient: cream
       amount:
          value: 3
          unit: cl
-      name: Creme

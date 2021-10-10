@@ -9,20 +9,16 @@ ingredients:
       amount:
          value: 6
          unit: cl
-      name: Gin
    -
       ingredient: dry-vermouth
       amount:
          value: 1
          unit: cl
-      name: Dry vermouth
    -
       ingredient: olive-brine
       amount:
          value: 1
          unit: splash
-      name: Olive brine
 garnish:
    -
       ingredient: green-olive
-      name: Green olive

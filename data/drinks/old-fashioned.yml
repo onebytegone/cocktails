@@ -15,16 +15,12 @@ ingredients:
       amount:
          value: 2
          unit: dashes
-      name: Angostura Bitters
    -
       ingredient: sugar
       amount:
          value: 1
-      name: Sugar cube
 garnish:
    -
       ingredient: orange-slice
-      name: Orange slice
    -
       ingredient: cherry
-      name: Cherry

@@ -9,10 +9,8 @@ ingredients:
       amount:
          value: 3.5
          unit: cl
-      name: Scotch
    -
       ingredient: amaretto
       amount:
          value: 3.5
          unit: cl
-      name: Amaretto

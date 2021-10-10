@@ -9,22 +9,18 @@ ingredients:
       amount:
          value: 4.5
          unit: cl
-      name: Gin
    -
       ingredient: lemon-juice
       amount:
          value: 1.5
          unit: cl
-      name: Fresh lemon juice
    -
       ingredient: raspberry-syrup
       amount:
          value: 1.5
          unit: cl
-      name: Raspberry syrup
    -
       ingredient: egg-white
       amount:
          value: 1
          unit: egg
-      name: Egg white

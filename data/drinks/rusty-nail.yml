@@ -9,14 +9,11 @@ ingredients:
       amount:
          value: 4.5
          unit: cl
-      name: Scotch
    -
       ingredient: drambuie
       amount:
          value: 2.5
          unit: cl
-      name: Drambuie
 garnish:
    -
       ingredient: lemon-slice
-      name: Lemon slice

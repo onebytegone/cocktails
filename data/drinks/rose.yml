@@ -9,20 +9,16 @@ ingredients:
       amount:
          value: 4
          unit: cl
-      name: Dry vermouth
    -
       ingredient: kirsch
       amount:
          value: 2
          unit: cl
-      name: Kirsch
    -
       ingredient: strawberry-syrup
       amount:
          value: 3
          unit: dashes
-      name: Strawberry syrup
 garnish:
    -
       ingredient: cherry
-      name: Cherry

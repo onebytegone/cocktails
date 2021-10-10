@@ -9,19 +9,16 @@ ingredients:
       amount:
          value: 2.5
          unit: cl
-      name: Vodka citron
    -
       ingredient: triple-sec
       amount:
          value: 2
          unit: cl
-      name: Triple sec
    -
       ingredient: lemon-juice
       amount:
          value: 1.5
          unit: cl
-      name: Fresh lemon juice
 garnish:
    -
       ingredient: sugar

@@ -9,16 +9,13 @@ ingredients:
       amount:
          value: 5
          unit: cl
-      name: Brandy
    -
       ingredient: triple-sec
       amount:
          value: 2
          unit: cl
-      name: Triple sec
    -
       ingredient: lemon-juice
       amount:
          value: 2
          unit: cl
-      name: Fresh lemon juice

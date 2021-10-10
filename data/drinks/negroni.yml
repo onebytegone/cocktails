@@ -9,20 +9,16 @@ ingredients:
       amount:
          value: 3
          unit: cl
-      name: Campari
    -
       ingredient: sweet-vermouth
       amount:
          value: 3
          unit: cl
-      name: Red Vermouth
    -
       ingredient: gin
       amount:
          value: 3
          unit: cl
-      name: Gin
 garnish:
    -
       ingredient: orange-slice
-      name: Orange slice

@@ -9,17 +9,13 @@ ingredients:
       amount:
          value: 6
          unit: cl
-      name: Gin
    -
       ingredient: dry-vermouth
       amount:
          value: 1
          unit: cl
-      name: Dry vermouth
 garnish:
    -
       ingredient: green-olive
-      name: Green olive
    -
       ingredient: lemon-twist
-      name: Lemon twist

@@ -9,10 +9,8 @@ ingredients:
       amount:
          value: 5
          unit: cl
-      name: Cognac
    -
       ingredient: creme-de-menthe
       amount:
          value: 2
          unit: cl
-      name: White Créme de Menthe

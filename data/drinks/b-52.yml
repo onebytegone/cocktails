@@ -9,16 +9,13 @@ ingredients:
       amount:
          value: 2
          unit: cl
-      name: Kahlúa
    -
       ingredient: irish-cream
       amount:
          value: 2
          unit: cl
-      name: Irish Cream
    -
       ingredient: grand-marnier
       amount:
          value: 2
          unit: cl
-      name: Grand Marnier

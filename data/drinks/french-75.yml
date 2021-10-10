@@ -9,22 +9,18 @@ ingredients:
       amount:
          value: 3
          unit: cl
-      name: Gin
    -
       ingredient: simple-syrup
       amount:
          value: 1
          unit: cl
-      name: Simple syrup
    -
       ingredient: lemon-juice
       amount:
          value: 1.5
          unit: cl
-      name: Fresh lemon juice
    -
       ingredient: champagne
       amount:
          value: 6
          unit: cl
-      name: Champagne

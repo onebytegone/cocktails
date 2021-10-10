@@ -9,19 +9,16 @@ ingredients:
       amount:
          value: 1.5
          unit: cl
-      name: Brandy
    -
       ingredient: port
       amount:
          value: 4.5
          unit: cl
-      name: Port
    -
       ingredient: egg-yolk
       amount:
          value: 1
          unit: cl
-      name: Egg yolk
 garnish:
    -
       ingredient: nutmeg

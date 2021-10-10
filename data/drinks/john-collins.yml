@@ -8,29 +8,23 @@ ingredients:
       amount:
          value: 4.5
          unit: cl
-      name: Gin
    -
       ingredient: simple-syrup
       amount:
          value: 1.5
          unit: cl
-      name: simple syrup
    -
       ingredient: lemon-juice
       amount:
          value: 3
          unit: cl
-      name: Fresh lemon juice
    -
       ingredient: soda-water
       amount:
          value: 6
          unit: cl
-      name: Soda water
 garnish:
    -
       ingredient: lemon-slice
-      name: Lemon slice
    -
       ingredient: cherry
-      name: Cherry

@@ -9,25 +9,21 @@ ingredients:
       amount:
          value: 2.5
          unit: cl
-      name: Vodka
    -
       ingredient: creme-de-cassis
       amount:
          value: 1.5
          unit: cl
-      name: Crème de cassis
    -
       ingredient: simple-syrup
       amount:
          value: 1
          unit: cl
-      name: Simple syrup
    -
       ingredient: lemon-juice
       amount:
          value: 2.5
          unit: cl
-      name: Fresh lemon juice
    -
       ingredient: sparkling-wine
       amount:
@@ -37,4 +33,3 @@ ingredients:
 garnish:
    -
       ingredient: lemon-twist
-      name: Lemon twist

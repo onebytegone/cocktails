@@ -9,47 +9,38 @@ ingredients:
       amount:
          value: 4.5
          unit: cl
-      name: Vodka
    -
       ingredient: tomato-juice
       amount:
          value: 9
          unit: cl
-      name: Tomato juice
    -
       ingredient: lemon-juice
       amount:
          value: 1.5
          unit: cl
-      name: Fresh lemon juice
    -
       ingredient: worcestershire
       amount:
          value: 3
          unit: dashes
-      name: Worcestershire sauce
    -
       ingredient: tabasco
       amount:
          value: 1
          unit: dash
-      name: Tabasco
    -
       ingredient: celery-salt
       amount:
          value: 3
          unit: dash
-      name: Celery salt
    -
       ingredient: pepper
       amount:
          value: 2
          unit: dash
-      name: Pepper
 garnish:
    -
       ingredient: celery
-      name: Celery stalk
    -
       ingredient: lemon
-      name: Lemon wedge

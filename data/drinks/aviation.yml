@@ -9,16 +9,13 @@ ingredients:
       amount:
          value: 4.5
          unit: cl
-      name: Gin
    -
       ingredient: maraschino
       amount:
          value: 1.5
          unit: cl
-      name: Maraschino
    -
       ingredient: lemon-juice
       amount:
          value: 1.5
          unit: cl
-      name: Fresh lemon juice

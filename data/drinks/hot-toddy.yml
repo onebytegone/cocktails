@@ -11,16 +11,13 @@ ingredients:
       amount:
          value: 2
          unit: cl
-      name: Fresh lemon juice
    -
       ingredient: honey
       amount:
          value: 2
          unit: cl
-      name: Honey
    -
       ingredient: water
       amount:
          value: 15
          unit: cl
-      name: Water

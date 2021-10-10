@@ -9,20 +9,16 @@ ingredients:
       amount:
          value: 4.5
          unit: cl
-      name: Vodka
    -
       ingredient: chambord
       amount:
          value: 1.5
          unit: cl
-      name: Chambord
    -
       ingredient: pineapple-juice
       amount:
          value: 1.5
          unit: cl
-      name: Fresh pineapple juice
 garnish:
    -
       ingredient: lemon-twist
-      name: Lemon twist

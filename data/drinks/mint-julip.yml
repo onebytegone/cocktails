@@ -9,25 +9,21 @@ ingredients:
       amount:
          value: 6
          unit: cl
-      name: Bourbon
    -
       ingredient: mint
       amount:
          value: 4
          unit: leaves
-      name: Fresh mint
    -
       ingredient: powdered-sugar
       amount:
          value: 1
          unit: teaspoon
-      name: Powdered sugar
    -
       ingredient: water
       amount:
          value: 2
          unit: teaspoon
-      name: Water
 garnish:
    -
       ingredient: mint

@@ -9,10 +9,8 @@ ingredients:
       amount:
          value: 6
          unit: cl
-      name: Dark rum
    -
       ingredient: ginger-beer
       amount:
          value: 10
          unit: cl
-      name: Ginger beer

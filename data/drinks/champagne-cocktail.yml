@@ -9,28 +9,22 @@ ingredients:
       amount:
          value: 6
          unit: cl
-      name: Champagne
    -
       ingredient: cognac
       amount:
          value: 1
          unit: cl
-      name: Cognac
    -
       ingredient: angostura-bitters
       amount:
          value: 2
          unit: dash
-      name: Angostura Bitters
    -
       ingredient: sugar
       amount:
          value: 1
-      name: Sugar cube
 garnish:
    -
       ingredient: orange-slice
-      name: Orange slice
    -
       ingredient: cherry
-      name: Cherry

@@ -8,32 +8,26 @@ ingredients:
       amount:
          value: 3
          unit: cl
-      name: Irish Whiskey
    -
       ingredient: drambuie
       amount:
          value: 2.5
          unit: cl
-      name: Drambuie
    -
       ingredient: triple-sec
       amount:
          value: 1
          unit: cl
-      name: Triple Sec
    -
       ingredient: lemon-juice
       amount:
          value: 3
          unit: cl
-      name: Lemon Juice
    -
       ingredient: ginger-ale
       amount:
          value: 1.5
          unit: cl
-      name: Ginger Ale
 garnish:
    -
       ingredient: lemon-slice
-      name: Lemon slice

@@ -9,22 +9,18 @@ ingredients:
       amount:
          value: 2
          unit: cl
-      name: Galliano
    -
       ingredient: triple-sec
       amount:
          value: 2
          unit: cl
-      name: Triple sec
    -
       ingredient: orange-juice
       amount:
          value: 2
          unit: cl
-      name: Fresh orange juice
    -
       ingredient: cream
       amount:
          value: 1
          unit: cl
-      name: cream

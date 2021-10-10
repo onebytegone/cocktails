@@ -7,20 +7,16 @@ ingredients:
       amount:
          value: 4
          unit: cl
-      name: Blended Scotch
    -
       ingredient: sweet-vermouth
       amount:
          value: 2
          unit: cl
-      name: Red Vermouth
    -
       ingredient: angostura-bitters
       amount:
          value: 1
          unit: dash
-      name: Angostura Bitters
 garnish:
    -
       ingredient: cherry
-      name: Cherry

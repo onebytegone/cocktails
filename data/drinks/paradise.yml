@@ -10,16 +10,13 @@ ingredients:
       amount:
          value: 3.5
          unit: cl
-      name: Gin
    -
       ingredient: apricot-brandy
       amount:
          value: 2
          unit: cl
-      name: Apricot brandy
    -
       ingredient: orange-juice
       amount:
          value: 1.5
          unit: cl
-      name: Orange juice

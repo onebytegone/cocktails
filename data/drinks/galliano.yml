@@ -9,23 +9,18 @@ ingredients:
       amount:
          value: 4.5
          unit: cl
-      name: Vodka
    -
       ingredient: galliano
       amount:
          value: 1.5
          unit: cl
-      name: Galliano
    -
       ingredient: orange-juice
       amount:
          value: 9
          unit: cl
-      name: Fresh orange juice
 garnish:
    -
       ingredient: orange-slice
-      name: Orange slice
    -
       ingredient: cherry
-      name: Cherry
