@@ -17,7 +17,7 @@ module.exports = function(api) {
       const drinks = addCollection('Drink'),
             ingredients = addCollection('Ingredient'),
             tags = addCollection('Tag'),
-            drinkFiles = await glob(path.join(__dirname, 'drinks', '**', '*.yml')),
+            drinkFiles = await glob(path.join(__dirname, 'data', 'drinks', '**', '*.yml')),
             foundTags = new Set();
 
       yaml.load(await fs.promises.readFile(path.join(__dirname, 'data', 'ingredients.yml'), 'utf8'))
