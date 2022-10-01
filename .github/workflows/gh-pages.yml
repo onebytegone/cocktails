@@ -26,6 +26,7 @@ jobs:
             run: |
                npm install --global @gridsome/cli@0.3.4
                npm ci
+               npm run standards
                npm run build
          -
             uses: peaceiris/actions-gh-pages@v3
