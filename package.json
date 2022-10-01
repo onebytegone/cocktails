@@ -7,7 +7,7 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
-    "gridsome": "^0.7.0"
+    "gridsome": "0.7.23"
   },
   "devDependencies": {
     "glob": "7.2.0",
