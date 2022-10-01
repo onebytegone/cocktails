@@ -10,6 +10,11 @@
       </nav>
     </header>
     <slot/>
+    <footer class="footer">
+      <span>
+         <a href="https://github.com/onebytegone/cocktails">View on GitHub</a> | Created by <a href="https://onebytegone.com">Ethan Smith</a>
+      </span>
+    </footer>
   </div>
 </template>
 
@@ -46,5 +51,20 @@ body {
 
 .nav__link {
    margin-left: 20px;
+}
+
+.footer {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 20px;
+   height: 80px;
+   color: #888888;
+   a {
+      color: #888888;
+      &:hover {
+         color: #333333;
+      }
+   }
 }
 </style>
