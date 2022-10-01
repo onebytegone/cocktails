@@ -4,12 +4,16 @@
   "scripts": {
     "build": "gridsome build",
     "develop": "gridsome develop",
-    "explore": "gridsome explore"
+    "explore": "gridsome explore",
+    "commitlint": "commitlint --from 473acabf",
+    "markdownlint": "markdownlint -c .markdownlint.json -i LICENSE.md '{,!(node_modules)/**/}*.md'",
+    "standards": "npm run commitlint && npm run markdownlint"
   },
   "dependencies": {
     "gridsome": "0.7.23"
   },
   "devDependencies": {
+    "@silvermine/standardization": "2.0.0",
     "glob": "7.2.0",
     "js-yaml": "4.1.0",
     "sass": "1.55.0",
