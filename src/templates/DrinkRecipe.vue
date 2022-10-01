@@ -25,7 +25,7 @@
    </Layout>
 </template>
 
-<style>
+<style lang="scss">
 .tags {
    display: flex;
    flex-wrap: wrap;
@@ -33,24 +33,25 @@
    padding: 0;
    list-style: none;
    gap: 10px;
+   a {
+      text-decoration: none;
+      white-space: nowrap;
+      background-color: hsl(219deg 31% 43%);
+      color: #f6f6f6;
+      border-radius: 1em;
+      padding: .2em .5em;
+      &:hover {
+         background-color: hsl(219deg 24% 29%);
+      }
+   }
 }
-.tags a {
-   text-decoration: none;
-   white-space: nowrap;
-   background-color: hsl(219deg 31% 43%);
-   color: #f6f6f6;
-   border-radius: 1em;
-   padding: .2em .5em;
-}
-.tags a:hover {
-   background-color: hsl(219deg 24% 29%);
-}
+
 .ingredient-list a, .garnish-list a {
    text-decoration: none;
    color: #000000;
-}
-.ingredient-list a:hover, .garnish-list a:hover {
-   text-decoration: underline;
+   &:hover {
+      text-decoration: underline;
+   }
 }
 </style>
 
