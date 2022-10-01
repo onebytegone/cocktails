@@ -1,1 +1,1 @@
-{"hash":"d5fbe432b1dd7d9a04f8baa5c60d8313c56a8364","data":{"ingredient":{"name":"Whiskey","belongsTo":{"edges":[{"node":{"id":"hot-toddy","name":"Hot Toddy","path":"/drinks/hot-toddy/"}}]}}},"context":{}}
+{"hash":"53b98b29bad5caccfbd1c9ddfd6e5d93ee8c57f0","data":{"ingredient":{"name":"Whiskey","belongsTo":{"edges":[{"node":{"id":"hot-toddy","name":"Hot Toddy","path":"/drinks/hot-toddy/"}}]}}},"context":{}}
